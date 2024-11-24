@@ -25,7 +25,7 @@ This project is a simple physics engine built using **SFML (Simple and Fast Mult
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/basic-physics-engine.git
+   git clone https://github.com/Venkatesh-Shukla/basic-physics-engine.git
    cd basic-physics-engine
    ```
 
